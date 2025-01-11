@@ -1,2 +1,4 @@
 # faturas
- Criar faturas automaticamente.
+
+Criar faturas automaticamente.
+![screenshot.png](screenshot.png)
